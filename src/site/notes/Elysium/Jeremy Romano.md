@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/elysium/franco-de-medici/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/elysium/jeremy-romano/","dgPassFrontmatter":true}
 ---
 
 
 > [!infobox|wikipedia]
-> # Franco de' Medici
-> ![External Image 1](https://gifdb.com/images/high/ben-barnes-turning-around-y21vepam9p09ejbb.gif)
+> # Jeremy Romano
+> ![External Image 1](https://64.media.tumblr.com/e2edc865f4d63e84de33751f4e9e9460/f5abf5f3a0b01822-f4/s1280x1920/7469e8e740ee50b2b812d15bae4e8684c9750e36.gifv)
 > ###### Perfil
 > |||
 > | ---- | ---- |
@@ -14,7 +14,7 @@
 > | Morte | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
-> ||
+> || |
 > | ---- | ---- |
 > | Clã | Testing |
 > | Filiação | Testing |
@@ -28,4 +28,5 @@
 > - Testing
 
 
-# Franco de' Medici
+
+

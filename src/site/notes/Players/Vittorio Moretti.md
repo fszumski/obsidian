@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/players/vittorio-moretti/","dgPassFrontmatter":true}
+---
+
+
+> [!infobox|wikipedia]
+> # Vittorio Moretti
+> ![External Image 1](https://i.pinimg.com/564x/5b/bd/9c/5bbd9c1654d0018af51e0ba123d37ba8.jpg)
+> ###### Perfil
+> |||
+> | ---- | ---- |
+> | Apelido | Testing |
+> | Nascimento | Testing |
+> | Morte | Testing |
+> | Aliados | Testing |
+> ###### A Máscara
+> || |
+> | ---- | ---- |
+> | Clã | Testing |
+> | Geração | 12° |
+> | Filiação | Camarilla |
+>| Posição | Membro |
+> | Sire | [[Elysium/Jeremy Romano\|Jeremy Romano]] |
+> | Cria | Testing |
+> # Disciplinas
+>  - Bullet list
+> 	- Testing
+> 	- Testing
+> - Testing
+
+
+
+
