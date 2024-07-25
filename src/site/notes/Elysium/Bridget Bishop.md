@@ -13,7 +13,7 @@
 > | Morte | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
-> ||
+> |||
 > | ---- | ---- |
 > | Clã | Testing |
 > | Filiação | Camarilla |
