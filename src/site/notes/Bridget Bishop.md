@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bridget-bishop/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/bridget-bishop/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 > [!infobox|wikipedia]
