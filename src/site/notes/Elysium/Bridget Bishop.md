@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/elysium/bridget-bishop/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/elysium/bridget-bishop/","dgPassFrontmatter":true}
 ---
+
 
 > [!infobox|wikipedia]
 > # Bridget Bishop
@@ -13,22 +14,20 @@
 > | Morte | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
-> |||
+> || |
 > | ---- | ---- |
 > | Clã | Testing |
-> | Filiação | Camarilla |
->| Posição | Senescal |
-> | Sire | - |
-> | Cria | - |
+> | Geração | Testing |
+> | Filiação | Testing |
+>| Posição | Testing |
+> | Sire | Testing |
+> | Cria | Testing |
 > # Disciplinas
 >  - Bullet list
 > 	- Testing
 > 	- Testing
 > - Testing
 
-
-
-# Bridget Bishop
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed diam ac mi accumsan mattis. Cras dignissim nunc non consequat tincidunt. Etiam vitae bibendum dui. Nullam libero urna, consectetur nec est eu, ornare cursus leo. Nulla non ligula ac tortor porttitor viverra placerat feugiat est. Sed imperdiet, ex quis consectetur viverra, sem urna hendrerit enim, eu maximus arcu nisl vel justo. Aenean pretium sollicitudin erat hendrerit euismod. Cras arcu augue, vulputate ac sem eget, facilisis tincidunt enim. Duis convallis dolor in convallis egestas. Duis a mattis magna, quis maximus dui.
@@ -40,5 +39,3 @@ Sed eget consectetur justo. Nullam velit metus, volutpat vel sodales ut, consequ
 In non elit sed ex ornare faucibus. Maecenas mi lectus, congue vehicula eros sit amet, vestibulum faucibus neque. Vestibulum commodo at urna sed fermentum. Ut cursus turpis eget gravida sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dictum porttitor turpis quis iaculis. Nunc aliquam lacus libero, non mollis velit consectetur id. Integer volutpat imperdiet finibus. Aenean fringilla ac ante eget ultrices. Duis ac turpis eget sem interdum elementum ac quis magna.
 
 Sed finibus vel nibh eu placerat. Sed eget ultrices elit, sodales tempor nisl. Nam viverra quam a ante posuere, quis ullamcorper ligula eleifend. Integer nec nibh viverra, vulputate sem vitae, rhoncus diam. Mauris est libero, posuere vel nibh et, rhoncus aliquam odio. Fusce risus nibh, varius at magna ut, dictum luctus tortor. Aliquam sit amet euismod quam, id placerat massa.
-
-

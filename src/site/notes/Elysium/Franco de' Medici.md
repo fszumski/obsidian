@@ -14,7 +14,7 @@
 > | Morte | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
-> ||
+> |||
 > | ---- | ---- |
 > | Clã | Testing |
 > | Filiação | Testing |
@@ -28,4 +28,4 @@
 > - Testing
 
 
-# Franco de' Medici
+

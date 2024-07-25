@@ -14,7 +14,7 @@
 > | Morte | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
-> ||
+> |||
 > | ---- | ---- |
 > | Clã | Testing |
 > | Filiação | Testing |
@@ -28,7 +28,6 @@
 > - Testing
 
 
-# Clarice di Piero de Medici
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed diam ac mi accumsan mattis. Cras dignissim nunc non consequat tincidunt. Etiam vitae bibendum dui. Nullam libero urna, consectetur nec est eu, ornare cursus leo. Nulla non ligula ac tortor porttitor viverra placerat feugiat est. Sed imperdiet, ex quis consectetur viverra, sem urna hendrerit enim, eu maximus arcu nisl vel justo. Aenean pretium sollicitudin erat hendrerit euismod. Cras arcu augue, vulputate ac sem eget, facilisis tincidunt enim. Duis convallis dolor in convallis egestas. Duis a mattis magna, quis maximus dui.
 
