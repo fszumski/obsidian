@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/elysium/bridget-bishop/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/elysium/bridget-bishop/","dgPassFrontmatter":true}
 ---
 
 
