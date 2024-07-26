@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia]
 > # Franco de' Medici
-> ![External Image 1](https://gifdb.com/images/high/ben-barnes-turning-around-y21vepam9p09ejbb.gif)
+> ![Image link|portrait hm-sm](https://gifdb.com/images/high/ben-barnes-turning-around-y21vepam9p09ejbb.gif)
 > ###### Perfil
 > |||
 > | ---- | ---- |

@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia]
 > # Jeremy Romano
-> ![External Image 1](https://i.pinimg.com/736x/38/97/7d/38977d16fc19adf3efee0a3dae416e67.jpg)
+> ![Image link|portrait hm-sm](https://i.pinimg.com/736x/38/97/7d/38977d16fc19adf3efee0a3dae416e67.jpg)
 > ###### Perfil
 > |||
 > | ---- | ---- |

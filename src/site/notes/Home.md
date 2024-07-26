@@ -18,3 +18,16 @@
 > **[[Elysium/Jeremy Romano\|Jeremy Romano]]**
 >![Image link|sban portrait+small ctr](https://i.pinimg.com/originals/0d/26/9b/0d269bc0b719b931b87769a54516ffcf.jpg)
 
+> [!cards|4]
+> **[[Elysium/Marie Laveau\|Marie Laveau]]**
+> ![Image link|sban portrait+small ctr](https://i.pinimg.com/564x/04/bc/18/04bc189a94f7a4eb3501d1df13ee139a.jpg)
+> 
+> **[[Elysium/Henrique II\|Henrique II]]**
+>![Image link|sban portrait+small ctr](https://64.media.tumblr.com/7a6fd2f4cc1e50998db9993fbb57a88b/tumblr_okzjhuGyDQ1rfhpsoo1_500.jpg)
+> 
+> **[[Elysium/Franco de' Medici\|Franco de' Medici]]**
+> ![Image link|sban portrait+small ctr](https://i.pinimg.com/originals/ed/47/12/ed47127d5684721ed6b6e20084747b98.jpg)
+> 
+> **[[Elysium/Jeremy Romano\|Jeremy Romano]]**
+>![Image link|sban portrait+small ctr](https://i.pinimg.com/originals/0d/26/9b/0d269bc0b719b931b87769a54516ffcf.jpg)
+

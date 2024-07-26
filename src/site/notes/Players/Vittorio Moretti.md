@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia]
 > # Vittorio Moretti
-> ![External Image 1](https://i.pinimg.com/564x/5b/bd/9c/5bbd9c1654d0018af51e0ba123d37ba8.jpg)
+> ![Image link|portrait hm-sm](https://i.pinimg.com/564x/5b/bd/9c/5bbd9c1654d0018af51e0ba123d37ba8.jpg)
 > ### Perfil
 > |||
 > | ---- | ---- |

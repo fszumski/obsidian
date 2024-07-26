@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia]
 > # Clarice di Piero de Medici
-> ![External Image 1](https://media.tenor.com/xMYxTLRJVqEAAAAM/hi.gif)
+> ![Image link|portrait hm-sm](https://media.tenor.com/xMYxTLRJVqEAAAAM/hi.gif)
 > ###### Perfil
 > |||
 > | ---- | ---- |
