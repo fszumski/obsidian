@@ -12,14 +12,14 @@
 > | Apelido | Testing |
 > | Nascimento | Testing |
 > | Morte | Testing |
-> | Aliados | Testing |
+> | Aliados | [[Characters/Elysium/Marie Laveau\|Marie Laveau]] |
 > ###### A Máscara
 > || |
 > | ---- | ---- |
-> | Clã | Testing |
-> | Geração | Testing |
-> | Filiação | Testing |
->| Posição | Testing |
+> | Clã | Tremere |
+> | Geração | 9° |
+> | Filiação | Camarilla |
+>| Posição | Senescal |
 > | Sire | Testing |
 > | Cria | Testing |
 > # Disciplinas

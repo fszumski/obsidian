@@ -12,7 +12,7 @@
 > | Apelido | Testing |
 > | Nascimento | Testing |
 > | Morte | Testing |
-> | Aliados | [[Players/Dante D'Amore\|Dante D'Amore]] |
+> | Aliados | [[Players/Dante D'Amore\|Dante D'Amore]], [[Characters/Humano/Luccas Alderson\|Luccas Alderson]] |
 > ### A Máscara
 > || |
 > | ---- | ---- |
