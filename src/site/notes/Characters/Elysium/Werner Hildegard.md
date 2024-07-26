@@ -19,9 +19,9 @@
 > | Clã | Brujah |
 > | Geração | 11° |
 > | Filiação | Camarilla/Anarch |
->| Posição | Testing |
+>| Posição | Caçador |
 > | Sire | Testing |
-> | Cria |  |
+> | Cria | [[Players/Haoran Qiang\|Haoran Qiang]] |
 > # Disciplinas
 >  - Bullet list
 > 	- Testing
@@ -30,4 +30,6 @@
 
 
 
+Ele é a ponte entre a Camarilla e os Anarch, qualquer assunto que envolva o "submundo" com certeza ele vai resolver e não será na conversa. Hildegard é dono de algumas academia de luta em Florença, mas a satisfação dele é o "clube da luta" clandestino onde rolam a maiores apostas, foi lá que vocês se conheceram e você foi escolhido por um único motivo: Bom de briga.
 
+A Relação entre vocês é como a de um treinador e seu atleta. Ele não mede as palavras e nem o peso da mão, se for coisa envolvendo fofocas da Camarilla nem pergunte, ele sempre terceirizou o trabalho burocrático. Hildegar é um bom homem para se contar, mas não abuse

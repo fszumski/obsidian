@@ -16,12 +16,11 @@
 > ###### A Máscara
 > || |
 > | ---- | ---- |
-> | Clã | Testing |
-> | Geração | Testing |
-> | Filiação | Testing |
->| Posição | Testing |
-> | Sire | Testing |
-> | Cria | Testing |
+> | Clã | Toreador |
+> | Geração | 12° |
+> | Filiação | Camarilla |
+>| Posição | Membro |
+> | Sire | [[Characters/Elysium/Margaret Bulkley\|Margaret Bulkley]] |
 > # Disciplinas
 >  - Bullet list
 > 	- Testing
