@@ -20,7 +20,7 @@
 > | Geração | 12° |
 > | Filiação | Camarilla |
 >| Posição | Membro |
-> | Sire | [[Elysium/Jeremy Romano\|Jeremy Romano]] |
+> | Sire | [[Characters/Elysium/Jeremy Romano\|Jeremy Romano]] |
 > | Cria | - |
 > ### Disciplinas
 >  - Bullet list

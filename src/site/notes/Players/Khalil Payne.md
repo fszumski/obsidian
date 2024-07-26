@@ -20,7 +20,7 @@
 > | Geração | 12° |
 > | Filiação | Camarilla |
 >| Posição | Membro |
-> | Sire | [[Elysium/Marie Laveau\|Marie Laveau]] |
+> | Sire | [[Characters/Elysium/Marie Laveau\|Marie Laveau]] |
 > | Cria | - |
 > # Disciplinas
 >  - Bullet list
