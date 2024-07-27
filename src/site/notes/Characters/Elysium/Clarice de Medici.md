@@ -11,15 +11,15 @@
 > | ---- | ---- |
 > | Nome Completo | Clarice di Piero de Medici |
 > | Nascimento | Testing |
-> | Morte | Testing |
+> | Abraço | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
 > |||
 > | ---- | ---- |
-> | Clã | Testing |
-> | Filiação | Testing |
->| Posição | Testing |
-> | Sire | Testing |
+> | Clã | Malkavian |
+> | Facção | Camarilla |
+>| Posição | Principe de Florença |
+> | Sire | [[Characters/Elysium/Franco de' Medici\|Franco de' Medici]] |
 > | Cria | Testing |
 > # Disciplinas
 >  - Bullet list

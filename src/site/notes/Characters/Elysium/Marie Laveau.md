@@ -12,7 +12,7 @@
 > | Apelido | Testing |
 > | Nascimento | Testing |
 > | Morte | Testing |
-> | Aliados | Testing |
+> | Aliados | [[Characters/Elysium/Bridget Bishop\|Bridget Bishop]] |
 > ###### A Máscara
 > || |
 > | ---- | ---- |
@@ -27,6 +27,8 @@
 > 	- Testing
 > 	- Testing
 > - Testing
+
+
 
 
 

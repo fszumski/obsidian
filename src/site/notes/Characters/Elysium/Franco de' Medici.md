@@ -11,16 +11,17 @@
 > | ---- | ---- |
 > | Apelido | Testing |
 > | Nascimento | Testing |
-> | Morte | Testing |
+> | Abraço | Testing |
 > | Aliados | Testing |
 > ###### A Máscara
 > |||
 > | ---- | ---- |
-> | Clã | Testing |
-> | Filiação | Testing |
->| Posição | Testing |
+> | Clã | Malkavian |
+> | Geração | 10° |
+> | Facção | Camarilla |
+>| Posição | Guardião do Elysium |
 > | Sire | Testing |
-> | Cria | Testing |
+> | Cria | [[Characters/Elysium/Clarice de Medici\|Clarice de Medici]] |
 > # Disciplinas
 >  - Bullet list
 > 	- Testing

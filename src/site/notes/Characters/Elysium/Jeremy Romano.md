@@ -9,7 +9,7 @@
 > ###### Perfil
 > |||
 > | ---- | ---- |
-> | Apelido | Jey |
+> | Apelido | Jay |
 > | Nascimento | Testing |
 > | Morte | Testing |
 > | Aliados | Testing |
@@ -17,8 +17,9 @@
 > || |
 > | ---- | ---- |
 > | Clã | Ventrue |
-> | Filiação | Camarilla |
->| Posição | Testing |
+> | Geração | 11° |
+> | Facção | Camarilla |
+>| Posição | Caçador |
 > | Sire | Testing |
 > | Cria | [[Players/Vittorio Moretti\|Vittorio Moretti]] |
 > # Disciplinas
@@ -26,6 +27,8 @@
 > 	- Testing
 > 	- Testing
 > - Testing
+
+
 
 
 

@@ -21,7 +21,7 @@
 > | Filiação | Camarilla |
 >| Posição | Senescal |
 > | Sire | Testing |
-> | Cria | Testing |
+> | Cria | Desconhecido |
 > # Disciplinas
 >  - Bullet list
 > 	- Testing
